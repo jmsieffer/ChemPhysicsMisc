@@ -1,3 +1,4 @@
+#%%
 import numpy as np
 import scipy as sp
 from scipy import constants as sc
@@ -119,3 +120,5 @@ for x in range(len(Odf)):
 
     #Legend
     plt.legend(loc="upper right")
+
+# %%
